@@ -1,0 +1,16 @@
+#maindiv{
+    height: 400px;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.box{
+ background-color: aqua;
+ height: 200px;
+width: 200px;
+text-align: center;
+}
+p{
+    margin-top: 45%;
+}
